@@ -8,22 +8,31 @@ Jakob Nielsen criou os 10 princípios gerais para design de interação. <br> Ch
 <br>
 
 ## ❗ 1- Visibilidade do status do sistema
-O site do Detran retornou feedback confusos sobre o que está acontecendo. Avisando que consta solicitação, porém a escrita está em cor vermelha e ao lado, um ícone circular vermelho com um X no centro.
+
+O design deve sempre manter os usuários informados sobre o que está acontecendo, através de feedback apropriado dentro de um período razoável de tempo.
+
 
 <details>
    <summary>Ver erro</summary>
+   O site do Detran retornou feedback confusos sobre o que está acontecendo. Avisando que consta solicitação, porém a escrita está em cor vermelha e ao lado, um ícone circular vermelho com um X no centro.
    
   ![image](https://github.com/b4hia/bertoti/assets/125401155/7da3b25f-d141-4f4d-9e92-b77780d088db)
+
+  do mesmo modo, o fórum do Asana tem uma barra laetral indicando a quantidade de posts de acordo com um período de tempo, porém fica muito confuso caso alguém queira encontrar posts por um mês especifico ou data, pois ele exibe apenas a posição em relação ao ultimo post.
+  
+  ![hueristica](https://github.com/b4hia/bertoti/assets/125401155/95a0c08f-2260-4788-a7c4-dedcdfaedad7)
 
 
 </details>
 
 
 ## ❗ 4- Consistência e Padrões
-No momento de login no sistema do Siga, não fica claro o que deve ser inserido no campo de usuário, se seria o RA, CPF, RG, algum código, e-mail institucional, e-mail pessoal ou Nome
+Os usuários não devem ter que se perguntar se palavras, situações ou ações diferentes significam a mesma coisa. Siga as convenções da plataforma e da indústria.
+
 
 <details>
    <summary>Ver erro</summary>
+   No momento de login no sistema do Siga, não fica claro o que deve ser inserido no campo de usuário, se seria o RA, CPF, RG, algum código, e-mail institucional, e-mail pessoal ou Nome
    
 ![exemplo9](https://github.com/b4hia/bertoti/assets/125401155/1240c14d-bb25-463d-80e7-c2c0ca5b6624)
 
@@ -31,20 +40,23 @@ No momento de login no sistema do Siga, não fica claro o que deve ser inserido 
 </details>
 
 ## ❗ 7- Flexibilidade e eficiência de uso
-Quando o site SIGA é logado por celulares, a maioria das infomarções ficam cortadas, isso não demonstra a aplicação da heurística, por não facilitar a visualização, assim diminuindo a eficiência. Mesmo arrastando para o lado, em algumas páginas perdemos parte de informções.
+Permitir que os usuários personalizem ações frequentes.
 
 <details>
    <summary>Ver erro</summary>
+   Quando o site SIGA é logado por celulares, a maioria das infomarções ficam cortadas, isso não demonstra a aplicação da heurística, por não facilitar a visualização, assim diminuindo a eficiência. Mesmo arrastando para o lado, em algumas páginas perdemos parte de informções.
    
    ![image](https://github.com/b4hia/bertoti/assets/125401155/94b71968-d8d0-4b05-9dcd-abdf7327ca6f)
 
 </details>
 
 ## ❗ 8- Estética e design minimalista
-As interfaces de início do SIGA não são esteticamente agradáveis, dificulta a compreensão do usuário e gera insatisfação geral com a interface. A tipografia não é legível e não tem consistência visual. O site da micropic, uma empresa de internet também tem o mesmo problema, uma vez que alguns textos ficam sobrepostos
+As interfaces não devem conter informações irrelevantes ou raramente necessárias. Cada unidade extra de informação em uma interface compete com as unidades relevantes de informação e diminui sua visibilidade relativa.
 
 <details>
    <summary>Ver erros</summary>
+   As interfaces de início do SIGA não são esteticamente agradáveis, dificulta a compreensão do usuário e gera insatisfação geral com a interface. A tipografia não é legível e não tem consistência visual. O site da micropic, uma empresa de internet também tem o mesmo problema, uma vez que alguns textos ficam sobrepostos
+
    
    ![image](https://github.com/b4hia/bertoti/assets/125401155/3d6ee93f-f5d9-4e51-8e9b-d18d2335410d)
 
@@ -60,15 +72,18 @@ As interfaces de início do SIGA não são esteticamente agradáveis, dificulta 
    ![image](https://github.com/b4hia/bertoti/assets/125401155/83a3d3ed-cf0e-47f5-96f1-28d77624d21b)
    o site da fatec tem um contraste muito ruim com o texto e a cor de fundo;
 
+   ![image](https://github.com/b4hia/bertoti/assets/125401155/851968ca-985d-4ae5-878b-fea6010c631c)
+   assim como o site da Fatec, o site da Mais Mix, uma loja, tem no rodapé dois icones para as redes socias, porém o    constrante escolhido para ser a cor de fundo e a cor do icone não harmonizam, dificultando a visualização.
 
 
 </details>
 
 ## ❗ 9- Ajudar os Usuários a Reconhecer, Diagnosticar e Recuperar Erros
-O siga não oferece ajuda, porém não define certamente qual seria o erro que seria previsto, sem contar com os problemas de recuperação de senha.
+As mensagens de erro devem ser expressas em linguagem simples (sem códigos de erro), indicar com precisão o problema e sugerir construtivamente uma solução.
 
 <details>
    <summary>Ver erro</summary>
+   O siga não oferece ajuda, porém não define certamente qual seria o erro que seria previsto, sem contar com os problemas de recuperação de senha.
    
 ![exemplo9](https://github.com/b4hia/bertoti/assets/125401155/e622c820-a9ff-4966-9217-debef49749a7)
 
