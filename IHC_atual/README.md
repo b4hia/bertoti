@@ -33,6 +33,10 @@ O design deve falar a linguagem dos usuários.
    No site do Siga, na aba de plano de ensino da materia de IHC, na apresentação, é apresentada um texto com alguns elementos estranhos, tais elementos são usados como marcação HTML e podem deixar o usuário leigo confuso.
    
    ![image](https://github.com/b4hia/bertoti/assets/125401155/9011b4aa-96e5-44c8-8cec-3a322a1b744e)
+
+   No siga os termos PP e PR não possuem explicação, deixando confuso o que significa esses termos.
+   ![image](https://github.com/b4hia/bertoti/assets/125401155/f08b5181-b0ec-4d2f-920e-e4fcb633775b)
+
 </details>
 
 ## ❗ 4- Consistência e Padrões
@@ -43,7 +47,7 @@ Os usuários não devem ter que se perguntar se palavras, situações ou ações
    <summary>Ver erro</summary>
    No momento de login no sistema do Siga, não fica claro o que deve ser inserido no campo de usuário, se seria o RA, CPF, RG, algum código, e-mail institucional, e-mail pessoal ou Nome
    
-![exemplo9](https://github.com/b4hia/bertoti/assets/125401155/1240c14d-bb25-463d-80e7-c2c0ca5b6624)
+   ![exemplo9](https://github.com/b4hia/bertoti/assets/125401155/1240c14d-bb25-463d-80e7-c2c0ca5b6624)
 
 
 </details>
