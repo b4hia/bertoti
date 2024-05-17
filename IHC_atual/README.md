@@ -25,9 +25,18 @@ O design deve sempre manter os usuários informados sobre o que está acontecend
 
 </details>
 
+## ❗ 2- Jogo entre o Sistema e o Mundo Real
+
+O design deve falar a linguagem dos usuários.
+<details>
+   <summary>Ver erro</summary>
+   No site do Siga, na aba de plano de ensino da materia de IHC, na apresentação, é apresentada um texto com alguns elementos estranhos, tais elementos são usados como marcação HTML e podem deixar o usuário leigo confuso.
+   
+   ![image](https://github.com/b4hia/bertoti/assets/125401155/9011b4aa-96e5-44c8-8cec-3a322a1b744e)
+</details>
 
 ## ❗ 4- Consistência e Padrões
-Os usuários não devem ter que se perguntar se palavras, situações ou ações diferentes significam a mesma coisa. Siga as convenções da plataforma e da indústria.
+Os usuários não devem ter que se perguntar se palavras, situações ou ações diferentes significam a mesma coisa.
 
 
 <details>
@@ -74,6 +83,9 @@ As interfaces não devem conter informações irrelevantes ou raramente necessá
 
    ![image](https://github.com/b4hia/bertoti/assets/125401155/851968ca-985d-4ae5-878b-fea6010c631c)
    assim como o site da Fatec, o site da Mais Mix, uma loja, tem no rodapé dois icones para as redes socias, porém o    constrante escolhido para ser a cor de fundo e a cor do icone não harmonizam, dificultando a visualização.
+
+   ![image](https://github.com/b4hia/bertoti/assets/125401155/b6e45e10-f9a6-4b53-98bf-e1a1b2aca07a)
+   Aqui, no site da prefietura de peruibe, o icone de aceitar cookies sobrepoem o icone do whatsapp que por sua vez    sobrepoem um icone para subir para o topo da página
 
 
 </details>
