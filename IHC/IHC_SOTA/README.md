@@ -5,4 +5,4 @@
 
 > Componentes do Grupo: Gabriel Reis, Wellington Luiz, Ryan Araújo.
 
-[O código para o colab](https://colab.research.google.com/drive/1FnKPAbOfiYGheZ1KOF9T4-Mf8DbMgr64#scrollTo=Pet2DDV2dOIY)
+[O código para o colab](https://colab.research.google.com/drive/1FnKPAbOfiYGheZ1KOF9T4-Mf8DbMgr64?usp=sharing)
